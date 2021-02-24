@@ -1,18 +1,18 @@
 # Building a Micro-reddit
-> An `application` designed to create a user, posts and add comments... 
+> This project involves using Active records concepts to implement micro-reddit application based on ruby on rails using. 
 
 
 ## Documentation
 
-This tool is very easy to use, please follow the instructions bellow to install it and enjoy using it from your rails console :D.
+This tool is very easy to use, please follow the instructions bellow to install and enjoy using it from your rails console :D.
 
 
 ## Built With
 * Ruby On Rails
 - [Ruby](https://www.ruby-lang.org/en/) 2.7.2
-- [Gems](https://rubygems.org/)
-  - [Rails](https://guides.rubyonrails.org/index.html) 6.1.3
-- [SQLite](https://www.sqlite.org/index.html) 3
+- [Ruby Gems](https://rubygems.org/)
+- [Rails](https://guides.rubyonrails.org/index.html) 6.1.3
+- [SQLite3](https://www.sqlite.org/index.html)
 
   
 ## Getting Started
@@ -24,9 +24,10 @@ For running this program locally, you need to:
 
 > Note: as discussed below, downloading the source code without `git` is possible.
 
-Once Ruby and the Gem rails are installed, get a copy of this project by:
+Once Ruby and Gem rails are installed, get a copy of this project by:
 - Cloning the repository using `git`
   * `git clone https://github.com/ixboy/micro-reddit.git`
+
 - Downloading a zip with the source code
   * Click [here](https://github.com/ixboy/micro-reddit/archive/development.zip)
   * Once  downloaded, extract it in a place with easy access to a terminal
@@ -38,17 +39,25 @@ Once Ruby and rails are both installed, and you have a copy of the source code, 
 Install the Gems by running `bundle install`. You may need to provide your user password. For more information about Ruby's `bundle`, check [here](https://bundler.io/man/bundle-install.1.html).
 
 
-- From the root directory(micro-reddit), change change into the Rails console terminal by running the following command and start using the tool...
+- From the root directory(micro-reddit), change into the Rails console terminal by running the following command and start using the tool...
 
  * `rails console`
 
-## Authors
+## Authors 1
 
 👤 **Iyunda Ismael Antonio**
 
 - GitHub: [@ixboy](https://github.com/ixboy)
 - Twitter: [@ismaelixboy](https://twitter.com/ismaelixboy)
 - LinkedIn: [ismael-antonio](https://www.linkedin.com/in/ismael-antonio-0b7712114/)
+
+## Authors 2
+
+👨‍💻 **Kalu Chinasa Agu**
+
+- [@Nasa28](https://github.com/Nasa28)
+- [@Ultimate_Nasa](https://twitter.com/Ultimate_Nasa)
+- [LinkedIn](https://www.linkedin.com/in/kalu-chinasa-agu-a15080103/)
 
 ## 🤝 Contributing
 

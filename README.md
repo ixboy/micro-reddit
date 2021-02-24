@@ -1,5 +1,5 @@
 # Building a Micro-reddit
-> This project involves using Active records concepts to implement micro-reddit application based on ruby on rails using. 
+> This project involves using Active records concepts to implement micro-reddit application based on ruby on rails. 
 
 
 ## Documentation
@@ -20,6 +20,7 @@ This tool is very easy to use, please follow the instructions bellow to install 
 ### Preparing the local environment
 For running this program locally, you need to:
 - [Install Ruby](https://www.ruby-lang.org/en/downloads/)
+- [Install Rails](https://guides.rubyonrails.org/v5.0/getting_started.html)
 - [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 > Note: as discussed below, downloading the source code without `git` is possible.
@@ -63,7 +64,7 @@ Install the Gems by running `bundle install`. You may need to provide your user 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ixboy/micro-reddit/edit/issues).
+Feel free to check the [issues page](https://github.com/ixboy/micro-reddit/issues).
 
 ## Acknowledgments
 

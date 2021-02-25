@@ -1,3 +1,4 @@
+ 
 # Building a Micro-reddit
 > This project involves using Active records concepts to implement micro-reddit application based on ruby on rails. 
 
@@ -6,12 +7,11 @@
 
 This tool is very easy to use, please follow the instructions bellow to install and enjoy using it from your rails console :D.
 
-
 ## Built With
 * Ruby On Rails
 - [Ruby](https://www.ruby-lang.org/en/) 2.7.2
 - [Ruby Gems](https://rubygems.org/)
-- [Rails](https://guides.rubyonrails.org/index.html) 6.1.3
+  - [Rails](https://guides.rubyonrails.org/index.html) 6.1.3
 - [SQLite3](https://www.sqlite.org/index.html)
 
   
@@ -78,3 +78,5 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is MIT licensed.
+
+

@@ -1,0 +1,7 @@
+PLATFORMS
+  darwin
+  linux
+  mingw32
+  ruby
+  x86-mswin32
+  x86_64-linux

@@ -56,7 +56,7 @@ Install the Gems by running `bundle install`. You may need to provide your user 
 
 - GitHub: [@ixboy](https://github.com/ixboy)
 - Twitter: [@ismaelixboy](https://twitter.com/ismaelixboy)
-- LinkedIn: [ismael-antonio](https://www.linkedin.com/in/ismael-antonio-0b7712114/)
+- LinkedIn: [ismael-antonio](https://www.linkedin.com/in/ismaelantonio/)
 
 ## Authors 2
 
